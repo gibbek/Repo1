@@ -2,4 +2,4 @@ moj_program.c
 .gitignore
 readme
 
-pliki z rozszerzeniem txt sa ignorowane
+pliki z rozszerzeniem txt sa ignorowane, dlatego ze skorzystalem z pliku .gitignore ktory w tresci mial '*.txt'
